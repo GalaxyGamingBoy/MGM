@@ -1,0 +1,32 @@
+type: GenericSmelter
+name: Diamontium Burner
+description: Consumes diamontium and convert it's to Crystal liquid.
+liquidCapacity: 50
+size: 2
+hasPower: true
+hasLiquids: true
+hasItems: false
+craftTime: 
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.7
+  items: {
+    items: [
+      diamontium/2
+    ]
+  }
+    liquid: {
+    liquid: oil
+    amount: 1
+  }
+}
+requirements: [
+  lead/50
+  thorium/80
+  silicon/60
+  diamontium/15
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputLiquid: crystal_liquid/1

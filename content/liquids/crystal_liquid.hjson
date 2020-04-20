@@ -1,0 +1,6 @@
+name: Crystal Liquid
+description: Imagine crystal's, but not solid at all.
+temperature: 1
+viscosity: 0.9
+effect: lava
+color: 58ADD8
