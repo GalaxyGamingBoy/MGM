@@ -2,7 +2,7 @@ type: GenericSmelter
 name: Diamontium Burner
 description: Consumes diamontium and convert it's to Crystal liquid.
 liquidCapacity: 50
-size: 2
+size: 3
 hasPower: true
 hasLiquids: true
 hasItems: false
