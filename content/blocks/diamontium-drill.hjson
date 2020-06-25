@@ -1,0 +1,21 @@
+name: Diamontium Drill
+description: A very diamond drill, Did you get it?
+type: Drill
+size: 3
+tier: 3
+drillTime: 125
+consumes: {
+  power: 8
+  liquid: {
+    liquid: crystal_liquid
+    amount: 0.1
+    booster: true
+  }
+}
+requirements: [
+  diamontium/80
+  diamontium-powder/40
+  graphite/20
+]
+category: production
+research: laser-drill
