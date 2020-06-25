@@ -1,0 +1,10 @@
+name:Diamontium wall
+description: A wall made of diamontium.Very strong
+type: Wall
+health: 2890
+size: 1
+requirements: [
+  diamontium/76
+]
+category: defense
+

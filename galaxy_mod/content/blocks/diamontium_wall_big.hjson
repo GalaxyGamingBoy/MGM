@@ -1,0 +1,10 @@
+name: Big diamontium wall
+description: A wall made of diamontium.Very strong
+type: Wall
+health: 2550
+size: 2
+requirements: [
+  diamontium/55
+]
+category: defense
+
