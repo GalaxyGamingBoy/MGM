@@ -1,0 +1,14 @@
+name: Secure Vault
+description: A secure way of storing items.
+type: Vault
+itemCapacity: 9750
+hasItems: true
+health: 25000
+size: 3
+requirements: [
+  heavy_titanium/25
+  titanium/60
+  thorium/40
+]
+category: effect
+research: vault
