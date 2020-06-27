@@ -2,5 +2,5 @@ name: "galaxy_mod"
 displayName: "[orange]Galaxy[gold] Mod" //what displays in the mod selection menu
 author: "GalaxyGamingBoy"
 description: "A simple mod."
-version: "1.2(Beta 2)"
+version: "1.2(Beta 3)"
 minGameVersion: "103"
