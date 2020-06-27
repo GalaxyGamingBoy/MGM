@@ -1,0 +1,13 @@
+type: Conveyor
+name: Diamontium conveyor
+description: Example conveyor.
+requirements: [
+  titanium/3
+  copper/3
+  lead/3
+  diamontium/5
+  diamontium-powder/3
+]
+category: distribution
+speed: 0.5
+research: titanium-conveyor
