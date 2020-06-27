@@ -9,5 +9,5 @@ requirements: [
   diamontium-powder/3
 ]
 category: distribution
-speed: 0.5
+speed: 0.25
 research: titanium-conveyor
